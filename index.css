@@ -1,0 +1,52 @@
+.naslov{color: white}
+body {
+	background-image: url("logo.png");
+	background-size: cover;
+}
+
+.naslov{font-size: 40px;
+
+	padding-left: 40%;
+	padding-top: 50px;
+	letter-spacing: 3px;
+}
+
+.student{ font-family: times;
+		padding-left: 50%;
+		padding-top: 5px;
+		font-size: 23px;
+		color: white;
+}
+
+.maliuvod{
+	padding-left: 40%;
+	color: white;
+
+}
+.navigacija{
+	padding-left: 40%;
+	text-shadow: none;
+	overflow: hidden;
+	margin-top: 40px;
+	
+
+
+	}
+	.navigacija a:hover{
+	background-color: white;
+	color: black;
+
+}
+.navigacija a:active{
+	
+}
+.navigacija a{
+	float: left;
+	color: black;
+	text-align: center;
+	padding: 20px 20px;
+
+	text-decoration: underline;
+	font-size: 17px
+}
+	

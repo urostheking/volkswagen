@@ -1,0 +1,21 @@
+.naslov{color: black}
+body {
+background-image: url("auto.png"); 
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;}
+	
+.slika1{
+	float: right;
+	padding-top: 40px;
+	
+}
+.tekst{
+	color: black;
+	padding-left: 10px;
+	
+}
+.naslov{padding-left: 50px;
+
+}

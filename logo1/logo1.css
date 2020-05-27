@@ -1,0 +1,29 @@
+.naslov{color: black}
+body {
+background-image: url("logo1.png"); 
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;}
+
+.naslov{font-size: 40px;
+font-family: times;
+padding-top: 50px;
+	padding-left: 60px;
+	letter-spacing: 3px;
+}}
+	
+.tim{
+	font-size: 20px;
+	padding-left: 15px;
+	padding-top: 10px;
+	text-shadow: none;
+	letter-spacing: 1px;
+	color: white
+	
+}	
+.lake{
+	padding-left: 15px;
+	padding-top: 10px;
+	
+}
